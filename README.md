@@ -93,7 +93,7 @@ This figure shows the rectifier and regulator circuit using four 1N4007 diodes, 
 
 ### **Figure 5: PCB Layout of Required Circuit**
 
-![Figure 5: PCB Layout of Required Circuit](pcb_layout_required_circuit.png)
+![Figure 5: PCB Layout of Required Circuit](printed_pcb_layout_preview.png)
 
 
 This figure shows the PCB layout designed for the required rectifier circuit. The layout contains copper tracks and component placement points.
@@ -102,21 +102,21 @@ This figure shows the PCB layout designed for the required rectifier circuit. Th
 
 ### **Figure 6: Soldering Process**
 
-![Figure 6: Soldering Process](soldering_process.png)
+![Figure 6: Soldering Process](soldering_process.jpeg)
 
 
 This figure shows the soldering process on the PCB board after etching and drilling.
 
 ### **Figure 7: 3D View of PCB Design**
 
-![Figure 7: 3D View of PCB Design](pcb_3d_view.png)
+![Figure 7: 3D View of PCB Design](pcb_3d_view.jpeg)
 
 
 This figure shows the 3D view of the PCB design, including component placement.
 
 ### **Figure 8: Breadboard Testing of Circuit**
 
-![Figure 8: Breadboard Testing of Circuit](breadboard_testing.png)
+![Figure 8: Breadboard Testing of Circuit](breadboard_testing.jpeg)
 
 This figure shows the components placed on a breadboard for testing the circuit before final PCB implementation.
 
@@ -124,14 +124,14 @@ This figure shows the components placed on a breadboard for testing the circuit 
 
 ### **Figure 9: Oscilloscope Output Waveform 01**
 
-![Figure 9: Oscilloscope Output Waveform 01](oscilloscope_output_waveform_01.png)
+![Figure 9: Oscilloscope Output Waveform 01](oscilloscope_output_waveform_01.jpeg)
 
 
 This figure shows the observed output waveform on the oscilloscope during circuit testing.
 
 ### **Figure 10: Oscilloscope Output Waveform 02**
 
-![Figure 10: Oscilloscope Output Waveform 02](oscilloscope_output_waveform_02.png)
+![Figure 10: Oscilloscope Output Waveform 02](oscilloscope_output_waveform_02.jpeg)
 
 
 This figure shows another oscilloscope output observation of the implemented rectifier circuit.

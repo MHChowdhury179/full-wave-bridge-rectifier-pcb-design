@@ -62,80 +62,78 @@ The circuit also includes filtering and regulation components to obtain a smooth
 
 ### **Figure 1: PCB Design Flow**
 
-![Figure 1: PCB Design Flow](assets/pcb-design/pcb_design_flow.png)
+![Figure 1: PCB Design Flow](pcb_design_flow.png)
 
-**Description:**
+
 This figure shows the basic PCB design flow, including design and prototype, schematic capture, physical layout, construction, testing, and final PCB documentation.
 
 ## **Circuit Design and Simulation**
 
 ### **Figure 2: Circuit Diagram**
 
-![Figure 2: Circuit Diagram](assets/pcb-design/circuit_diagram.png)
+![Figure 2: Circuit Diagram](circuit_diagram.png)
 
-**Description:**
+
 This figure shows the basic circuit diagram of the full-wave bridge rectifier.
 
 ### **Figure 3: Circuit Simulation in Proteus Software**
 
-![Figure 3: Circuit Simulation in Proteus Software](assets/pcb-design/proteus_simulation.png)
+![Figure 3: Circuit Simulation in Proteus Software](proteus_simulation.png)
 
-**Description:**
 This figure shows the simulation of the circuit using Proteus 8 software before PCB layout design.
 
 ### **Figure 4: Variable DC Power Supply Unit using LM317**
 
-![Figure 4: Variable DC Power Supply Unit using LM317](assets/pcb-design/variable_dc_power_supply_lm317.png)
+![Figure 4: Variable DC Power Supply Unit using LM317](variable_dc_power_supply_lm317.png)
 
-**Description:**
+
 This figure shows the rectifier and regulator circuit using four 1N4007 diodes, capacitor, resistor, and LM317 voltage regulator IC.
 
 ## **PCB Layout**
 
 ### **Figure 5: PCB Layout of Required Circuit**
 
-![Figure 5: PCB Layout of Required Circuit](assets/pcb-design/pcb_layout_required_circuit.png)
+![Figure 5: PCB Layout of Required Circuit](pcb_layout_required_circuit.png)
 
-**Description:**
+
 This figure shows the PCB layout designed for the required rectifier circuit. The layout contains copper tracks and component placement points.
 
 ## **Circuit Implementation**
 
 ### **Figure 6: Soldering Process**
 
-![Figure 6: Soldering Process](assets/implementation/soldering_process.png)
+![Figure 6: Soldering Process](soldering_process.png)
 
-**Description:**
+
 This figure shows the soldering process on the PCB board after etching and drilling.
 
 ### **Figure 7: 3D View of PCB Design**
 
-![Figure 7: 3D View of PCB Design](assets/implementation/pcb_3d_view.png)
+![Figure 7: 3D View of PCB Design](pcb_3d_view.png)
 
-**Description:**
+
 This figure shows the 3D view of the PCB design, including component placement.
 
 ### **Figure 8: Breadboard Testing of Circuit**
 
-![Figure 8: Breadboard Testing of Circuit](assets/implementation/breadboard_testing.png)
+![Figure 8: Breadboard Testing of Circuit](breadboard_testing.png)
 
-**Description:**
 This figure shows the components placed on a breadboard for testing the circuit before final PCB implementation.
 
 ## **Output Waveshapes**
 
 ### **Figure 9: Oscilloscope Output Waveform 01**
 
-![Figure 9: Oscilloscope Output Waveform 01](assets/output-waveshapes/oscilloscope_output_waveform_01.png)
+![Figure 9: Oscilloscope Output Waveform 01](oscilloscope_output_waveform_01.png)
 
-**Description:**
+
 This figure shows the observed output waveform on the oscilloscope during circuit testing.
 
 ### **Figure 10: Oscilloscope Output Waveform 02**
 
-![Figure 10: Oscilloscope Output Waveform 02](assets/output-waveshapes/oscilloscope_output_waveform_02.png)
+![Figure 10: Oscilloscope Output Waveform 02](oscilloscope_output_waveform_02.png)
 
-**Description:**
+
 This figure shows another oscilloscope output observation of the implemented rectifier circuit.
 
 ## **PCB Making Procedure**
